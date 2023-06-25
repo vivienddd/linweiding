@@ -16,4 +16,4 @@ My research interests focus on art communication and media culture, musicology a
 
 Personal Skills
 ======
-I am good at new media operation, and I have plentiful experience in art institution operation and event planning. I have both statistical software data analysis capabilities and professional skills in financial management and accounting.
+I own plentiful experience in art institution operation and event planning. Meanwhile, I have both statistical software data analysis capabilities and professional skills in financial management and accounting.
