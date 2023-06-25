@@ -85,10 +85,10 @@ author:
   bio              : "Graduate Student in the School of Arts, Nanjing University"
   location         : "Nanjing"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=6Qbd9kAAAAAJ"
   email            : "linweiding@smail.nju.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
