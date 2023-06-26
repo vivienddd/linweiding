@@ -4,11 +4,10 @@ collection: publication
 
 date: 2019-12-15 
 venue: 'Popular Literature And Art'
-paperurl: 'http://viviending.github.io/linweiding/files/1.pdf'
 citation: '丁林未.(2019).论硖石灯彩功能转型——由观赏型向实用型的转变. 大众文艺(23),7-8.'
 ---
 As a national intangible cultural heritage, Xiashi Lantern is known as the world's first lamp, and its production is mainly known for the eight-character technique of pushing, tying, knotting, framing, carving, painting, needle and paste, especially for its exquisite and delicate needle patterns. However, in the fast-paced era of commercialization, the function of Xiashi lanterns is still in the ornamental stage, which is contrary to the practical functions pursued by contemporary times, and has fallen into a bottleneck of development. This research is committed to exploring how to complete the functional transformation of Xiashi lantern from the conceptual level, skill level and industry level, and provide guidance and reference value for the inheritance and development of Xiashi Lantern.
 
 [Download paper here](http://viviending.github.io/linweiding/files/1.pdf)
 
-Recommended citation: 丁林未.(2019).论硖石灯彩功能转型——由观赏型向实用型的转变. 大众文艺(23),7-8..
+Recommended citation: 丁林未.(2019).论硖石灯彩功能转型——由观赏型向实用型的转变. 大众文艺(23),7-8.
