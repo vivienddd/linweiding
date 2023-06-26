@@ -1,15 +1,13 @@
 ---
 title: "Exploring the Innovative Development Model of Cultural Industry from the Perspective of Professional Investigation: A Case Study Based on Suzhou Cultural Industry / 专业考察视角下的文化产业创新发展模式探究——以苏州市文化产业为例"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+collection: publication
+
+date: 2020-01-25 
+venue: 'Popular Literature And Art'
+citation: '丁林未.(2020).专业考察视角下的文化产业创新发展模式探究——以苏州市文化产业为例. 大众文艺(02),261-262.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Nowadays, the cultural industry is in a booming situation and will continue to play an important role. How to make the development of the cultural industry break through the inherent mode and realize transformation and new development is a valuable research direction. Taking Suzhou's cultural industry as an example, this research records and analyzes the objects of investigation from a professional perspective, aiming to provide a series of practical suggestions for the development of the cultural industry.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://viviending.github.io/linweiding/files/1.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: 丁林未.(2020).专业考察视角下的文化产业创新发展模式探究——以苏州市文化产业为例. 大众文艺(02),261-262.
