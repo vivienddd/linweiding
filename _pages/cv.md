@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +14,7 @@ Education
 * M.A. in Nanjing, Nanjing University, 2025
   
 
-Work experience
+Working
 ======
 * Spring 2020: Research Assistant
   * University of Chicago
