@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "A Reflection of Ideology Conflicts Between Hsiung‐nu and China during the Han Dynasty"
+collection: publication
+
+date: 2021-02-01 
+venue: 'International Journal of Social Science and Education Research'
+url: 'https://plu.mx/a/?airiti_doc_id=P20190819001-202102-202101180002-202101180002-253-257&theme=plum-bigben-theme'
+citation: 'Ding,L.(2021).A Reflection of Ideology Conflicts Between Hsiung‐nu and China during the Han Dynasty. International Journal of Social Science and Education Research 4(2),253-257.doi:10.6918/ijosser.202102_4(2).0039.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Ideology refers to the manner or content of thinking of a certain group or culture. Different countries have various ideologies that influence their thinking manners, social structure and foreign policy. The Han Dynasty (206BCE - 220CE) is said to be an important period for the relationship between Hsiung‐nu and China, during which the political, economic and military relevance had been getting more intense than before. Through some primary sources written by Chinese historians, we can see that they represent Huns as ＂Barbarians＂, and we have wondered the reasons behind it. In a sense, the representation of ＂Barbarian＂ adopted by Chinese can be a reflection of Hsiung‐nu and Han Dynasty's ideology conflicts. These conflicts may had caused the understanding barriers between the two countries, with conflicts in other aspects intensifying thereafter. This work will compare the differing ideologies between Hsiungnu and China of their respective formation backgrounds and reflections on philosophical and moral ideas. Afterward, the work will think about the representation of ＂Barbarian＂ adopted by Chinese in Han Histories from the perspective of ideology conflicts to find out the reasons and influence of such representation. This work will further explore the development of relationship between Hsiung‐nu and China during the Han Dynasty to see if the relationship had eased down due to communication and approval of their contrasting ideologies. The work reveals that the ideologies of Hsiung‐nu and China during the Han Dynasty had differences and similarities. In particular, the differences were caused by several reasons, such as production mode and political system. The Huns and the Chinese had contrasting cultural identities as reflected in their philosophical and moral ideas, and had different ways to deal with a certain thing, which definitely resulted to conflicts and misunderstanding.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://viviending.github.io/linweiding/files/2.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation:Ding,L.(2021).A Reflection of Ideology Conflicts Between Hsiung‐nu and China during the Han Dynasty. International Journal of Social Science and Education Research 4(2),253-257.doi:10.6918/ijosser.202102_4(2).0039.
