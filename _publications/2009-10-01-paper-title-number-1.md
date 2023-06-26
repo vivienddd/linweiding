@@ -1,7 +1,6 @@
 ---
 title: "Research on the Transformation of the Function of Xiashi Illumination: the Transformation from Ornamental to Practical / 论硖石灯彩功能转型——由观赏型向实用型的转变"
 collection: publication
-permalink: /publication/2019-12-15-paper-Research on the Transformation of the Function of Xiashi Illumination: the Transformation from Ornamental to Practical-number-1
 
 date: 2019-12-15 
 venue: 'Popular Literature And Art'
