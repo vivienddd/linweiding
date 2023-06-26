@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Exploring the Innovative Development Model of Cultural Industry from the Perspective of Professional Investigation: A Case Study Based on Suzhou Cultural Industry / 专业考察视角下的文化产业创新发展模式探究——以苏州市文化产业为例"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
