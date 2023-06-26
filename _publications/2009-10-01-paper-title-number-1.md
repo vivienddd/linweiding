@@ -1,15 +1,15 @@
 ---
 title: "Research on the Transformation of the Function of Xiashi Illumination: the Transformation from Ornamental to Practical(论硖石灯彩功能转型——由观赏型向实用型的转变)"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019-12-15-paper-Research on the Transformation of the Function of Xiashi Illumination: the Transformation from Ornamental to Practical-number-1
+excerpt: 'As a national intangible cultural heritage, Xiashi Lantern is known as the world's first lamp, and its production is mainly known for the eight-character technique of pushing, tying, knotting, framing, carving, painting, needle and paste, especially for its exquisite and delicate needle patterns. However, in the fast-paced era of commercialization, the function of Xiashi lanterns is still in the ornamental stage, which is contrary to the practical functions pursued by contemporary times, and has fallen into a bottleneck of development. This research is committed to exploring how to complete the functional transformation of Xiashi lantern from the conceptual level, skill level and industry level, and provide guidance and reference value for the inheritance and development of Xiashi Lantern.'
+date: 2019-12-15 
+venue: 'Popular Literature And Art'
+paperurl: 'http://academicpages.github.io/files/论硖石灯彩功能转型——由观赏型向实用型的转变.pdf'
+citation: '丁林未.(2019).论硖石灯彩功能转型——由观赏型向实用型的转变. 大众文艺(23),7-8.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+As a national intangible cultural heritage, Xiashi Lantern is known as the world's first lamp, and its production is mainly known for the eight-character technique of pushing, tying, knotting, framing, carving, painting, needle and paste, especially for its exquisite and delicate needle patterns. However, in the fast-paced era of commercialization, the function of Xiashi lanterns is still in the ornamental stage, which is contrary to the practical functions pursued by contemporary times, and has fallen into a bottleneck of development. This research is committed to exploring how to complete the functional transformation of Xiashi lantern from the conceptual level, skill level and industry level, and provide guidance and reference value for the inheritance and development of Xiashi Lantern.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/论硖石灯彩功能转型——由观赏型向实用型的转变.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 丁林未.(2019).论硖石灯彩功能转型——由观赏型向实用型的转变. 大众文艺(23),7-8..
