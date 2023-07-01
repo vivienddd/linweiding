@@ -10,17 +10,17 @@ redirect_from:
 
 Education
 ======
-* B.A. in Xiamen, Xiamen University, 2018-2022
-* M.A. in Nanjing, Nanjing University, 2022-2025
+* B.A. in Xiamen, **Xiamen University**, 2018-2022
+* M.A. in Nanjing, **Nanjing University**, 2022-2025
   
 
 Working
 ======
-* Spring 2020: Research Assistant
+* **Spring 2020: Research Assistant**
   * University of Chicago
   * Supervisor: Professor Richard Payne
 
-* Spring 2023: Teaching Assistant
+* **Spring 2023: Teaching Assistant**
   * Nanjing University
   * Supervisor: Professor Lin QI
 
@@ -29,7 +29,8 @@ Skills
 * Composition
 * Piano
 * Stata
-* Accounting
+* Typesetting
+
 
 Publications
 ======
