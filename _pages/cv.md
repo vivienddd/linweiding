@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* B.A. in Xiamen, Xiamen University, 2022
-* M.A. in Nanjing, Nanjing University, 2025
+* B.A. in Xiamen, Xiamen University, 2018-2022
+* M.A. in Nanjing, Nanjing University, 2022-2025
   
 
 Working
